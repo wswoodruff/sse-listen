@@ -2,6 +2,7 @@
 
 Use this `schmervice` service to listen to an sse stream in Node
 
+## sseService
 ### listen({ url, events, onOpen, onClose, onError })
 - `url` link that will respond with an SSE connection
 - `events`
