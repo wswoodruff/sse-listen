@@ -19,6 +19,7 @@
     "@hapi/joi": "15.x.x",
     "eventsource": "^1.0.7",
     "haute-couture": "3.x.x",
+    "lodash": ">=4.17.13",
     "schmervice": "^1.2.0"
   },
   "devDependencies": {
